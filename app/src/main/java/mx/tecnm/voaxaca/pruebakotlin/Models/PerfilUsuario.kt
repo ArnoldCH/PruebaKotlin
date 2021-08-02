@@ -14,6 +14,6 @@ import org.json.JSONObject
  * **/
 
 class PerfilUsuario {
-    val nombre = "Jesus Lopez Sanchez"
+    val nombre = "Arnold Corres"
 
 }
